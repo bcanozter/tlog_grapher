@@ -1,0 +1,1 @@
+timestamp,BATTERY_STATUS.id,BATTERY_STATUS.battery_function,BATTERY_STATUS.type,BATTERY_STATUS.temperature,BATTERY_STATUS.voltages,BATTERY_STATUS.current_battery,BATTERY_STATUS.current_consumed,BATTERY_STATUS.energy_consumed,BATTERY_STATUS.battery_remaining,BATTERY_STATUS.time_remaining,BATTERY_STATUS.charge_state

@@ -1,0 +1,1 @@
+timestamp,DISTANCE_SENSOR.time_boot_ms,DISTANCE_SENSOR.min_distance,DISTANCE_SENSOR.max_distance,DISTANCE_SENSOR.current_distance,DISTANCE_SENSOR.type,DISTANCE_SENSOR.id,DISTANCE_SENSOR.orientation,DISTANCE_SENSOR.covariance,DISTANCE_SENSOR.horizontal_fov,DISTANCE_SENSOR.vertical_fov,DISTANCE_SENSOR.quaternion
